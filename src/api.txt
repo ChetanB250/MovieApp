@@ -1,0 +1,24 @@
+be0a7063
+http://www.omdbapi.com/?apikey=be0a7063
+
+7706a5cf651af165edcf599d6c88644c
+
+https://api.themoviedb.org/3/movie/157336?api_key=7706a5cf651af165edcf599d6c88644c;
+
+Individual
+https://api.themoviedb.org/3/movie/{movei_id}?api_key=7706a5cf651af165edcf599d6c88644c
+
+Search 
+https://api.themoviedb.org/3/search/movie?api_key=7706a5cf651af165edcf599d6c88644c&query=
+
+now playing
+https://api.themoviedb.org/3/movie/now_playing?api_key=7706a5cf651af165edcf599d6c88644c
+
+Popular
+https://api.themoviedb.org/3/movie/popular?api_key=7706a5cf651af165edcf599d6c88644c
+
+top rated
+https://api.themoviedb.org/3/movie/top_rated?api_key=7706a5cf651af165edcf599d6c88644c
+
+upcoming
+https://api.themoviedb.org/3/movie/upcoming?api_key=7706a5cf651af165edcf599d6c88644c
